@@ -1,0 +1,14 @@
+{
+  "name": "parce-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fangtao04 <fangtao04@meituan.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx parce dev"
+  },
+  "dependencies": {
+    "parce": "^1.2.2",
+    "vue-template-compiler": "2.6.10"
+  }
+}
